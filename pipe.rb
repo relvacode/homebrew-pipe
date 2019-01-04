@@ -1,9 +1,9 @@
 class Pipe < Formula
   desc ""
   homepage ""
-  url "https://github.com/relvacode/pipe/releases/download/0.0.6-alpha/pipe_0.0.6-alpha_osx_x86_64.tar.gz"
-  version "0.0.6-alpha"
-  sha256 "99e1669e414cd578c4f33934b958e208acdd28d89c2b7117003810cf47ed70a0"
+  url "https://github.com/relvacode/pipe/releases/download/0.0.9-alpha/pipe_0.0.9-alpha_osx_x86_64.tar.gz"
+  version "0.0.9-alpha"
+  sha256 "59c466227cb6b5c5db2164ebb5cb7575b9b1ba7c62796a780830b5a3597416d9"
 
   def install
     bin.install "pipe"
